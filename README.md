@@ -1,4 +1,4 @@
-# Sistema de Login de Alunos e Média
+# Sistema de Login de Alunos e Cálculo de Média
 
 Aplicação em Python para cálculo de média e classificação de alunos (Aprovado, Recuperação ou Reprovado).
 
